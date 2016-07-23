@@ -117,7 +117,7 @@ $url = 'https://www.helloasso.com/associations/'.$asso.'/collectes/'.$collecte.'
 	    'disclaimer' => 'Toutes les données sont distribué gratuitement, et sont extraites des pages du sites HelloAsso via un DOM Parser',
 	    'copyright' => 'Donnée de <a href="https://www.helloasso.com">HelloAsso</a>',
 	    '_comment' => 'La partie copyright n\'est pas obligatoire mais permet de faire connaitre le projet.',
-	    'github_url' => 'https://github.com/'
+	    'github_url' => 'https://github.com/baptcottey/helloasso_api',
 	    'httpcode' => $httpcode)
 	);
 	
